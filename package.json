@@ -1,0 +1,22 @@
+{
+  "name": "vri-map",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "eol": "^0.9.1",
+    "leaflet": "^1.7.1",
+    "randomcolor": "^0.6.2",
+    "vue": "^2.6.11",
+    "vue2-leaflet": "^2.5.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
